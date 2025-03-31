@@ -1,0 +1,30 @@
+.bg-container{
+    background-image: url('https://ik.imagekit.io/4z8covdo9/MERN-COURSE-ASSETS/TOURISM-PROJECT/sea-ocean');
+    height: 600px;
+    width: 300px;
+    background-repeat: no-repeat;
+}
+
+card{
+    align-items: center;
+    text-align: center;
+} 
+.btn{
+    background-color: #08C1EB;
+    padding: 4px 12px;
+    border-radius: 50px;
+    color: white;
+}
+
+.bg-page-container{
+    background-image: url('https://ik.imagekit.io/4z8covdo9/MERN-COURSE-ASSETS/TOURISM-PROJECT/taj-mahal');
+    height: 600px;
+    width: 350px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.db{
+    display: flex;
+    justify-content: center;
+}
